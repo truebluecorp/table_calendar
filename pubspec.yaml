@@ -1,9 +1,8 @@
 name: table_calendar
 description: Highly customizable, feature-packed calendar widget for Flutter.
 # version upgraded by Marco Rossi, was originally 3.0.9
-version: 3.0.10
-# upgraded intl by trueblue to 0.19.0
-author: Aleksander Woźniak <aleksanderwozniak96@gmail.com>
+version: 3.0.11
+# upgraded intl by trueblue to 0.20.2
 homepage: https://github.com/aleksanderwozniak/table_calendar
 
 environment:
@@ -14,7 +13,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  intl: ^0.19.0
+  intl: ^0.20.2
   simple_gesture_detector: ^0.2.0
 
 dev_dependencies:
